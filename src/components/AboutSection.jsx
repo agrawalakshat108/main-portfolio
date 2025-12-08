@@ -35,7 +35,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/AKSHAT_AGRAWAL,IIITM_.pdf"
+                href="/Akshat_Agrawal_CV.pdf"
                 download="Akshat_Agrawal_CV"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
